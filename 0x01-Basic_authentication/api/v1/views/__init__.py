@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Init file
+app views
 """
 from flask import Blueprint
 
